@@ -1,0 +1,6 @@
+#this is the first time to write my program on the GitHub.
+#use the perl & R language for the project or MATLAB
+#practice the linux operate system 
+#the MySQL database
+#the C language and java
+#use the tools CommandTotal 
